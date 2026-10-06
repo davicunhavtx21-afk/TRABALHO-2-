@@ -6,8 +6,7 @@
 ## Integrantes
 - [Lucas torres da cunha ]
 - [Wilbert Barradas ]
-- [Rubert carlos ]
-- [Daniel Fonseca]
+
 
 ## Sobre o Projeto
 Este projeto é um simulador simples de escalonamento de processos. O objetivo é demonstrar como quatro regras diferentes organizam o uso da CPU numa fila de atendimento. Os algoritmos implementados são:
